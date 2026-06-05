@@ -63,7 +63,7 @@ void main() {
                 System.out.println((k + 1) + ". [Qui non hai inserito media!]");
             }
         }
-        System.out.println("Quale file vuoi riprodurre/visualizzare?");
+        System.out.println("Quale file vuoi visualizzare?");
         System.out.print("Inserisci un numero da 1 a 5, oppure 0 per uscire: ");
         int input = scanner.nextInt();
 
