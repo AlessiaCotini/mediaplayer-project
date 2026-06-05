@@ -49,7 +49,7 @@ void main() {
             System.out.println("Inserimento interrotto dall'utente.");
             break;
         } else {
-            System.out.println("Scelta non valida. Questo spazio rimarrà vuoto.");
+            System.out.println("Questo spazio rimarrà vuoto.");
         }
     }
 
