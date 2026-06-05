@@ -60,7 +60,7 @@ void main() {
             if (file[k] != null) {
                 System.out.println((k + 1) + ". [" + file[k].getClass().getSimpleName() + "] " + file[k].getTitle());
             } else {
-                System.out.println((k + 1) + ". [Vuoto]");
+                System.out.println((k + 1) + ". [Qui non hai inserito media!]");
             }
         }
         System.out.println("Quale file vuoi riprodurre/visualizzare?");
